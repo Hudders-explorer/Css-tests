@@ -112,11 +112,11 @@ img {
 }
 
 .card__image--flowers {
-  background-image: url('flexbox-grid/images/fence');
+  background-image: url('flexbox-grid/images/fence.jpg');
 }
 
 .card__image--river {
-  background-image: url('/flexbox-grid/images/flowers');
+  background-image: url('../flexbox-grid/images/flowers');
 }
 
 .card__image--record {
