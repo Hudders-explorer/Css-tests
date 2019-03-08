@@ -120,11 +120,11 @@ img {
 }
 
 .card__image--record {
-  background-image: url('/images/marshland');
+  background-image: url('images/marshland');
 }
 
 .card__image--fence {
-  background-image: url('/images/record');
+  background-image: url("/images/record");
 }
 
 .card__title {
