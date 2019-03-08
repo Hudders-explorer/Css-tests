@@ -116,11 +116,11 @@ img {
 }
 
 .card__image--river {
-  background-image: url('../flexbox-grid/images/flowers');
+  background-image: url('/flexbox-grid/images/flowers');
 }
 
 .card__image--record {
-  background-image: url('images/marshland');
+  background-image: url('images/marshland.jpg');
 }
 
 .card__image--fence {
